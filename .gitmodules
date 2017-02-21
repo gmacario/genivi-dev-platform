@@ -41,3 +41,6 @@
 [submodule "meta-browser"]
 	path = meta-browser
 	url = git://github.com/OSSystems/meta-browser.git
+[submodule "meta-gmacario"]
+	path = meta-gmacario
+	url = https://gmacario@bitbucket.org/gmacario/meta-gmacario.git
